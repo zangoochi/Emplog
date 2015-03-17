@@ -1,0 +1,15 @@
+c:\users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\bin\Debug\EmpLog.exe.config
+c:\users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\bin\Debug\EmpLog.exe
+c:\users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\bin\Debug\EmpLog.pdb
+c:\users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Debug\EmpLog.csprojResolveAssemblyReference.cache
+c:\users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Debug\EmpLog.EmpLogTitle.resources
+c:\users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Debug\EmpLog.Properties.Resources.resources
+c:\users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Debug\EmpLog.csproj.GenerateResource.Cache
+c:\users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Debug\EmpLog.exe
+c:\users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Debug\EmpLog.pdb
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Debug\EmpLog.CreateEmployeeForm.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog\EmpLog\obj\Debug\EmpLog.GetEmployeeForm.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog\EmpLog\obj\Debug\EmpLog.EditEmployeeForm.resources
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Debug\EmpLog.EmployeeHistoryForm.resources
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Debug\EmpLog.TimeClockForm.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog\EmpLog\obj\Debug\EmpLog.HistoryRecordForm.resources

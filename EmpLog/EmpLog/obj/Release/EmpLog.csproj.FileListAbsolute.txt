@@ -1,0 +1,72 @@
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\bin\Release\EmpLog.exe.config
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\bin\Release\EmpLog.exe
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\bin\Release\EmpLog.pdb
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Release\EmpLog.Properties.Resources.resources
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Release\EmpLog.csproj.GenerateResource.Cache
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Release\EmpLog.exe
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Release\EmpLog.pdb
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog\EmpLog\obj\Release\EmpLog.HistoryRecordForm.resources
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Release\EmpLog.csprojResolveAssemblyReference.cache
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Release\EmpLog.AdminForm.resources
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Release\EmpLog.EmplogForm.resources
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Release\EmpLog.NewEmployeeUserControl.resources
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Release\EmpLog.GetEmployeeUserControl.resources
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Release\EmpLog.EditEmployeeUserControl.resources
+C:\Users\zmontgom\documents\visual studio 2013\Projects\EmpLog\EmpLog\obj\Release\EmpLog.EmployeeHistoryUserControl.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\bin\Release\EmpLog.exe.config
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\obj\Release\EmpLog.exe
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\obj\Release\EmpLog.pdb
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\obj\Release\EmpLog.csprojResolveAssemblyReference.cache
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\bin\Release\EmpLog.exe
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\bin\Release\EmpLog.pdb
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\obj\Release\EmpLog.EditEmployeeUserControl.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\obj\Release\EmpLog.EmployeeHistoryUserControl.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\obj\Release\EmpLog.GetEmployeeUserControl.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\obj\Release\EmpLog.HistoryRecordForm.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\obj\Release\EmpLog.NewEmployeeUserControl.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\obj\Release\EmpLog.Properties.Resources.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\obj\Release\EmpLog.EmplogForm.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\obj\Release\EmpLog.csproj.GenerateResource.Cache
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Copy (2)\EmpLog\obj\Release\EmpLog.AdminForm.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\bin\Release\EmpLog.exe.config
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\obj\Release\EmpLog.exe
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\obj\Release\EmpLog.pdb
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\obj\Release\EmpLog.csprojResolveAssemblyReference.cache
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\obj\Release\EmpLog.AdminForm.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\obj\Release\EmpLog.EditEmployeeUserControl.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\obj\Release\EmpLog.EmployeeHistoryUserControl.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\obj\Release\EmpLog.GetEmployeeUserControl.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\obj\Release\EmpLog.HistoryRecordForm.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\obj\Release\EmpLog.NewEmployeeUserControl.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\obj\Release\EmpLog.Properties.Resources.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\obj\Release\EmpLog.EmplogForm.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\obj\Release\EmpLog.csproj.GenerateResource.Cache
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\bin\Release\EmpLog.exe
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\bin\Release\EmpLog.pdb
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\bin\Release\EmpLog.exe.manifest
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\bin\Release\EmpLog.application
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\obj\Release\EmpLog.exe.manifest
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - Working_Edit_Copy\EmpLog\obj\Release\EmpLog.application
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\bin\Release\EmpLog.exe.config
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\obj\Release\EmpLog.exe
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\obj\Release\EmpLog.pdb
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\bin\Release\EmpLog.exe.manifest
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\bin\Release\EmpLog.application
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\bin\Release\EmpLog.exe
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\bin\Release\EmpLog.pdb
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\obj\Release\EmpLog.csprojResolveAssemblyReference.cache
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\obj\Release\EmpLog.AdminForm.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\obj\Release\EmpLog.EditEmployeeUserControl.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\obj\Release\EmpLog.EmployeeHistoryUserControl.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\obj\Release\EmpLog.GetEmployeeUserControl.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\obj\Release\EmpLog.HistoryRecordForm.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\obj\Release\EmpLog.NewEmployeeUserControl.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\obj\Release\EmpLog.Properties.Resources.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\obj\Release\EmpLog.csproj.GenerateResource.Cache
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\obj\Release\EmpLog.exe.manifest
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\obj\Release\EmpLog.application
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog - FinalCopy\EmpLog\obj\Release\EmpLog.EmplogForm.resources
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog\EmpLog\bin\Release\EmpLog.exe.manifest
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog\EmpLog\bin\Release\EmpLog.application
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog\EmpLog\obj\Release\EmpLog.exe.manifest
+C:\Users\zmontgom\Documents\Visual Studio 2013\Projects\EmpLog\EmpLog\obj\Release\EmpLog.application
